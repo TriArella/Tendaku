@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444622149452",
+    "project_id": "tendaku-d88f0",
+    "storage_bucket": "tendaku-d88f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444622149452:android:ad49c7533e6a73aedee1e9",
+        "android_client_info": {
+          "package_name": "com.example.tendaku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqmoRZBpRtgc2UHWnLOGgPHNiokAommI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
